@@ -4999,5 +4999,8 @@
 {"model":"Toyota Aurion", "price":4000, "type":"MiniVan", "year":2009, "fuel type":"Gasoline", "gearbox":"Mechanic", "wheelsize":13, "engine":1.4},
 {"model":"Toyota Allion", "price":4500, "type":"Compact Executive", "year":2009, "fuel type":"Diesel", "gearbox":"TipTronic", "wheelsize":11, "engine":2.7},
 {"model":"Toyota Century", "price":4000, "type":"Estate Car", "year":2008, "fuel type":"Gasoline", "gearbox":"TipTronic", "wheelsize":13, "engine":1.4}
-]}
+],
+    "name": "CarModels",
+    "description": "Toyota Models available for purchase"
+}
 
